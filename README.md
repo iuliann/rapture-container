@@ -3,7 +3,7 @@
 [![PhpVersion](https://img.shields.io/badge/php-5.4-orange.svg?style=flat-square)](#)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](#)
 
-Message sending for various services.
+PHP simple DI container with reflection.
 
 ## Requirements
 
@@ -31,7 +31,7 @@ $container['request']->getUri()->getPath();
 Container::instance()['\Demo\User']; // runs reflection and caches result
 
 // no reflection on 2nd run
-Container::instance()->getNew('\Demo\User'); // get new instance
+Container::instance()->getNew('\Demo\User'); // get a new instance
 ```
 
 ## About
