@@ -1,0 +1,14 @@
+{
+  "name": "iuliann/rapture-container",
+  "description": "Rapture Container component",
+  "keywords": ["library"],
+  "homepage": "http://rapture.iuliann.ro",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Iulian N.",
+      "homepage": "http://iuliann.ro",
+      "role": "Developer"
+    }
+  ]
+}
