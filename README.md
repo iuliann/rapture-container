@@ -13,7 +13,7 @@ PHP simple DI container with reflection.
 ## Install
 
 ```
-composer require iuliann/rapture-container
+composer require mrjulio/rapture-container
 ```
 
 ## Quick start
